@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-welldify-staging-92750-authRole",
+      "UnauthRoleArn": "arn:aws:iam::506952427064:role/amplify-welldify-staging-92750-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::506952427064:role/amplify-welldify-staging-92750-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-welldify-staging-92750-deployment",
+      "UnauthRoleName": "amplify-welldify-staging-92750-unauthRole",
+      "StackName": "amplify-welldify-staging-92750",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:506952427064:stack/amplify-welldify-staging-92750/de592170-22f1-11ee-bcdc-0a79541ba54b",
+      "AmplifyAppId": "d2tg3fvvq38w6l"
+    },
+    "categories": {
+      "auth": {
+        "Welldify": {}
+      }
+    }
+  }
+}
